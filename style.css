@@ -1,5 +1,30 @@
+/* GOOGLE FONTS */
 body {
   font-family: 'Poppins', serif;
   font-size: 20px;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+/* MEDIA QUERIES */
+@media(max-width:992px) {
+
+}
+@media(max-width:768px) {
+
+}
+@media(max-width:576px) {
+
+}
+
+
 
