@@ -1,10 +1,12 @@
-/* GOOGLE FONTS */
-body {
+
+
+html, body {
+  height: 100%;
+  width: 100%;
   font-family: 'Poppins', serif;
   font-size: 20px;
+  color: #040b99;
 }
-
-
 
 
 
@@ -26,10 +28,10 @@ body {
 }
 
 /* FIREFOX BUF FIX */
-.carousel-item{
-  transition: -webkit-transform: 0.3s ease;
-  transition: transform: 0.3s ease;
-  transition: transform: 0.3s ease, -webkit-transform: 0.3s ease; 
+.carousel-item {
+  transition: -webkit-transform 0.3s ease;
+  transition: transform 0.3s ease;
+  transition: transform 0.3s ease, -webkit-transform 0.3s ease; 
   -webkit-backface-visibility: visible; 
   backface-visibility: visible;
 }
