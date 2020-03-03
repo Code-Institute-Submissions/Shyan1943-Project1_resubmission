@@ -35,36 +35,7 @@
 
 <body data-spy="scroll" data-target="#navtop" data-offset="50">
 
-<!-- FIXED TOP Navigation bar -->
-    <section>
-        <nav id="navtop" class="navbar fixed-top navbar-expand-lg navbar-light bg-light">
-        <div class="container-fluid">
-            <a class="navbar-brand" href="#"><img src="img_logo.jpg" width="70%" height="70%"></a>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarNav">
-                <ul class="navbar-nav ml-auto">
-                    <li class="nav-item active">
-                        <a class="nav-link" href="#">HOME <span class="sr-only">(current)</span></a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#services">SERVICES</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" style="width: 4cm;" href="#aboutus">ABOUT US</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#contact">CONTACT</a>
-                    </li>
-                </ul>
-            </div>
-        </div>
-        </nav>
-    </section>
-
-    
-<!-- Landing Page slideshow-->
+<!-- PAGE 1 Landing Page slideshow-->
     <section>
         <div id="slides" class="carousel" data-ride="carousel">
         <ul class="carousel-indicators">
@@ -106,7 +77,7 @@
         <div class="container-fluid">
             <div clas="row jumbotron">
                 <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-10">
-                    <p class="lead">Our People make the different</p>
+                    <p class="lead">Our ople make the differentPe</p>
                 </div>
             </div>
             <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 col-xl-2">
@@ -124,7 +95,35 @@
 
     </section>
 
+<!-- FIXED TOP Navigation bar -->
+    <section>
+        <nav id="navtop" class="navbar fixed-top navbar-expand-lg navbar-light bg-dark">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="#"><img src="img_logo.jpg" width="70%" height="70%"></a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="#">HOME <span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#services">SERVICES</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" style="width: 4cm;" href="#aboutus">ABOUT US</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#contact">CONTACT</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        </nav>
+    </section>
 
+    
 <!-- Fixed-bottom -->
     <section>
         <nav class="navbar p-1 fixed-bottom navbar-light" style="background-color: #e9d699;">
@@ -275,6 +274,13 @@
             </div>
     </section>
 
+    <!-- JS for nav scroll -->
+    <script>
+        $(window).scroll(function(){
+        $('nav').toggleClass('scrolled', $(this).scrollTop()>500);
+        });
+
+    </script>
 </body>
 
 </html>
