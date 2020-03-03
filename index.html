@@ -33,10 +33,11 @@
     
 </head>
 
-<body>
+<body data-spy="scroll" data-target="#navtop" data-offset="50">
+
 <!-- FIXED TOP Navigation bar -->
     <section>
-        <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light">
+        <nav id="navtop" class="navbar fixed-top navbar-expand-lg navbar-light bg-light">
         <div class="container-fluid">
             <a class="navbar-brand" href="#"><img src="img_logo.jpg" width="70%" height="70%"></a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -48,13 +49,13 @@
                         <a class="nav-link" href="#">HOME <span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">SERVICES</a>
+                        <a class="nav-link" href="#services">SERVICES</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" style="width: 4cm;" href="#">ABOUT US</a>
+                        <a class="nav-link" style="width: 4cm;" href="#aboutus">ABOUT US</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">CONTACT</a>
+                        <a class="nav-link" href="#contact">CONTACT</a>
                     </li>
                 </ul>
             </div>
@@ -62,7 +63,7 @@
         </nav>
     </section>
 
-	<!-- Landing Page slideshow-->
+<!-- Landing Page slideshow-->
     <section>
         <div id="slides" class="carousel" data-ride="carousel">
         <ul class="carousel-indicators">
@@ -149,7 +150,7 @@
         <div class="container-fluid padding"> -->git checkout 
             <div class="row welcome text-center">
                 <div class="col-12">
-                    <h1>Our Services</h1>
+                    <h1 id="services">Our Services</h1>
                 </div>
             </div>
         </div>
@@ -193,8 +194,27 @@
                 </div>
             </div>
         </div>
-    
-    <!-- PAGE 3 : OUR PROFILE -->
+
+
+<!-- PAGE 3 : ABOUT US -->
+    <section>
+        <div class="container-fluid padding">
+        <div class="row padding">
+            <div class="col-lg-6">
+                <h2 id="aboutus">About Us</h2>
+                <p>WM Group was established ogit n 1998 and we run a diversified business through our subsidiaries to meet a specific set of customer needs. With over 20 office locations across Hong Kong and China, we have a strong team of over 600 staff, working diligently to bring out the best to our clients in the industry. Since its inception, we have grown into a group of multi¬modal transportation companies, covering Air, Sea, and Land freight modes with services ranging from common feeder, international freight forwarding, logistics and supply chain, water front and freight terminal, container and cargo trucking to liner agency.</p>
+                <br>
+                <a href="#" class="btn btn-primary">Know More</a>
+            </div>
+        </div>
+        <div class="col-lg-6">
+            <img src="img_logo.jpg" class="img-fluid">
+        </div>
+        </div>
+    </section>
+
+
+<!-- PAGE 4 : OUR PROFILE -->
     <section>
         <div class="container-fluid padding"> -->
             <div class="row welcome text-center">
@@ -229,23 +249,7 @@
         </div>  
     </section>
 
-    <!-- PAGE 4 : ABOUT US -->
-    <section>
-        <div class="container-fluid padding">
-        <div class="row padding">
-            <div class="col-lg-6">
-                <h2>About Us</h2>
-                <p>WM Group was established ogit n 1998 and we run a diversified business through our subsidiaries to meet a specific set of customer needs. With over 20 office locations across Hong Kong and China, we have a strong team of over 600 staff, working diligently to bring out the best to our clients in the industry. Since its inception, we have grown into a group of multi¬modal transportation companies, covering Air, Sea, and Land freight modes with services ranging from common feeder, international freight forwarding, logistics and supply chain, water front and freight terminal, container and cargo trucking to liner agency.</p>
-                <br>
-                <a href="#" class="btn btn-primary">Know More</a>
-            </div>
-        </div>
-        <div class="col-lg-6">
-            <img src="img_logo.jpg" class="img-fluid">
-        </div>
-        </div>
-    </section>
-    
+
   
     <hr class="my-4">
     <!-- FIXED BACKGROUND IMAGE -->
@@ -257,7 +261,17 @@
 
     <!-- OUR PEOPLE -->
 
-    <!-- CONTACT US -->
+<!-- CONTACT US -->
+    <section>
+        <div class="container-fluid padding">
+            <div class="row padding">
+                <div class="col-lg-6">
+                    <h2 id="contact">Contact Us</h2>
+                    <p>Get in touch with us xxxx </p>
+                    <br>
+                </div>
+            </div>
+    </section>
 
 </body>
 
