@@ -2,8 +2,10 @@
 html, body {
   height: 100%;
   width: 100%;
+  overflow-x: hidden;
   font-family: 'Poppins', serif;
   font-size: 20px;
+  color: #505962;
   position: relative; 
   transition: all 3s;
   -webkit-transition: all 3s;
@@ -14,16 +16,17 @@ h2, p{
 
 /* Header Start*/
 .navbar {
+  font-size: 1.3em !important;
+  font-weight: bold;
   padding: 0rem;
+  letter-spacing: .1rem;
 }
 .navbar-nav li {
   padding-right: 20px;
 }
-
-.nav-link{
-  font-size: 1.3em !important;
-  font-weight: bold;
-  text-emphasis: white;
+.navbar-dark .navbar-nav .nav-link.active,
+.navbar-dark .navbar-nav .nav-link:hover{
+  color:#F9B03E;
 }
 
 .bg-dark{
@@ -32,12 +35,62 @@ h2, p{
 .bg-dark.scrolled{
   background: #e9d699 !important;
 }
-.logo {
+.circle {
+  width: 10em;
+  height: 10em;
+  border: 1em solid;
+  border-radius: 50%;
+  position: absolute;
+}
+.ring1 {
+  border-color: #F9B03E;
+}
+
+.ring2 {
+  border-color: #18478E;
+  left:4em;
+}
+
+/* Logo Olympic unable */
+/* .patch {
+  width: 2em;
+  height: 2em;
+  position: absolute;
+  /* overflow: hidden; */
+  border-color: green;
+  border-style: solid;
+  border-width: 5em 0 5em 10em;
+  border-radius: 50%;
+
+}
+
+.patch1 {
+  border-color: #F9B03E;
+} */
+
+
+/* .patch:before {
+  content: "";
+  width: 10em;
+  height: 10em;
+  position: absolute;
+  top: -5em;
+  left: -10em;
+  border: 1em solid;
+  border-radius: 50%;
+}
+
+.patch1::before{
+  border-color: #F9B03E;
+} */
+
+
+/* .logo {
   position: relative;
   width: 30vh;
   height: 30vh;
   /* border: 1em solid; */
-  background: linear-gradient(#F9B03E, #99e5e9);
+  /* background: linear-gradient(#F9B03E, #99e5e9);
   border-radius: 50%;
   animation-name: logo;
   animation: 0.5s linear infinite;
@@ -51,9 +104,9 @@ h2, p{
   to {
     transform: rotate(360deg);
   }
-}
+} */
 
-.logo:after {
+/* .logo:after {
   content:'';
   position: absolute;
   top: 20px;
@@ -81,14 +134,14 @@ h2, p{
 }
 .logo span:nth-child(4){
   filter: blur(55px);
-}
+} */ */
 
 
 
 /* Header Ending */
 
 
-/* Landing page Start */
+/* Landing page slideshow Start */
 .carousel-inner img{
   width: 100%;
   height: 100%;
@@ -99,14 +152,10 @@ h2, p{
   transform: translateY(-50%);
 }
 .carousel-caption h1 {
-  font-size: 500%;
+  font-size: 300%;
   text-transform: uppercase;
   text-shadow: 1px 1px 15px  #000000;
 }
-
-
-
-
 
 .btn-primary {
   background-color: #e9d699;
@@ -116,6 +165,7 @@ h2, p{
   background-color: red;
   border: 1px solid red;
 }
+
 
 .jumbotron {
   padding: 1rem;
@@ -230,6 +280,16 @@ h2, p{
   padding: 0.5rem;
 }
 }
+
+/* FIREFOX BUF FIX */
+.carousel-item {
+  transition: -webkit-transform 0.3s ease;
+  transition: transform 0.3s ease;
+  transition: transform 0.3s ease, -webkit-transform 0.3s ease; 
+  -webkit-backface-visibility: visible; 
+  backface-visibility: visible;
+}
+
 @media(max-width:768px) {
 .carousel-caption {
   top: 45%;
@@ -267,15 +327,6 @@ h2, p{
   font-size: 1.4em;
   padding: 0.3rem;
 }
-}
-
-/* FIREFOX BUF FIX */
-.carousel-item {
-  transition: -webkit-transform 0.3s ease;
-  transition: transform 0.3s ease;
-  transition: transform 0.3s ease, -webkit-transform 0.3s ease; 
-  -webkit-backface-visibility: visible; 
-  backface-visibility: visible;
 }
 
 /* FIXED BACKGROUND IMAGE */
