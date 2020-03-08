@@ -4,10 +4,12 @@ html, body {
   width: 100%;
   font-family: 'Poppins', serif;
   font-size: 20px;
-  color: #040b99;
   position: relative; 
   transition: all 3s;
   -webkit-transition: all 3s;
+}
+h2, p{
+  color: #18478E;
 }
 
 /* Header Start*/
@@ -31,12 +33,22 @@ html, body {
   background: #e9d699 !important;
 }
 .logo {
-  width: 300px;
-  height: 300px;
+  position: relative;
+  width: 60vh;
+  height: 60vh;
   border: 1em solid;
   background: linear-gradient(#F9B03E, #99e5e9);
-  position: relative;
-
+  border-radius: 50%;
+}
+.logo:after {
+  content:'';
+  position: absolute;
+  top: 35px;
+  right: 35px;
+  bottom: 35px;
+  left: 35px;
+  border-radius: 50%;
+  background-color: black;
 }
 
 
