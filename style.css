@@ -19,8 +19,8 @@ html, body {
 .nav-link{
   font-size: 1.3em !important;
   font-weight: bold;
-  -moz-text-decoration-color: white;
-  }
+  text-emphasis: white;
+}
 
 .bg-dark{
   background: transparent !important;
@@ -41,7 +41,7 @@ html, body {
 .carousel-caption h1 {
   font-size: 500%;
   text-transform: uppercase;
-  text-shadow: 1px 1px 15px #000000;
+  text-shadow: 1px 1px 15px  #000000;
 }
 
 
