@@ -34,21 +34,53 @@ h2, p{
 }
 .logo {
   position: relative;
-  width: 60vh;
-  height: 60vh;
-  border: 1em solid;
+  width: 30vh;
+  height: 30vh;
+  /* border: 1em solid; */
   background: linear-gradient(#F9B03E, #99e5e9);
   border-radius: 50%;
+  animation-name: logo;
+  animation: 0.5s linear infinite;
 }
+
+@keyframes animate logo {
+    from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
 .logo:after {
   content:'';
   position: absolute;
-  top: 35px;
-  right: 35px;
-  bottom: 35px;
-  left: 35px;
+  top: 20px;
+  right: 20px;
+  bottom: 20px;
+  left: 20px;
   border-radius: 50%;
-  background-color: black;
+  background-color:black;
+}
+.logo span{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(#F9B03E, #99e5e9);
+  border-radius: 50%;
+}
+.logo span:nth-child(1){
+  filter: blur(5px);
+}
+.logo span:nth-child(2){
+  filter: blur(10px);
+}
+.logo span:nth-child(3){
+  filter: blur(20px);
+}
+.logo span:nth-child(4){
+  filter: blur(55px);
 }
 
 
