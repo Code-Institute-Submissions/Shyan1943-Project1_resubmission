@@ -338,8 +338,8 @@ body{
   color: #25d366;
 }
 .fa-envelope {
-  background-color:#e9d699;
-  color:white;
+  background-color:transparent;
+  color:black;
 }
 
 
