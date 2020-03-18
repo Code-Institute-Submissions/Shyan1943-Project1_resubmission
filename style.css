@@ -10,8 +10,12 @@ html, body {
   transition: all 3s;
   -webkit-transition: all 3s;
 }
-h2, p{
+h2, h4{
   color: #18478E;
+}
+
+p{
+  color: grey;
 }
 
 /* Header Start*/
@@ -157,13 +161,32 @@ h2, p{
   text-shadow: 1px 1px 15px  #000000;
 }
 
+/* Page 1 Quick contact us */
+#contact  {
+  text-align: center;
+  padding-top: 15%;
+  padding-bottom: 15%;
+}
+#contact .fa {
+  font-size: 4rem;
+}
+#contact .fa-phone {
+  color: #18478E;
+}
+#contact .fa-phone:hover {
+  color: #F9B03E;
+}
+#contact p {
+  height:110px;
+}
 .btn-primary {
-  background-color: #e9d699;
-  border: 1px solid #e9d699;
+  background-color: #18478E;
+  border: 1px solid  #18478E;
 }
 .btn-primary:hover {
-  background-color: red;
-  border: 1px solid red;
+  background-color: #F9B03E;
+  border: 1px solid #F9B03E;
+  color: #18478E;
 }
 
 
@@ -339,7 +362,7 @@ body{
 }
 .fa-envelope {
   background-color:transparent;
-  color:black;
+  color:#F9B03E;
 }
 
 
@@ -349,14 +372,15 @@ body{
 .fa-facebook:hover,
 .fa-whatsapp:hover,
 .fa-envelope:hover {
-  color: #040b99;
+  color: #18478E;
 }
 
 /* MEDIA QUERIES */
 @media(max-width:992px) {
+  /* 75% */
 .navbar-brand {
-  width: 50%;
-  height: 50%;
+  width: 75%;
+  height: 75%;
 }
 .social a {
   font-size: 1.8em;
@@ -374,6 +398,7 @@ body{
 }
 
 @media(max-width:768px) {
+  /* 60% */
 .carousel-caption {
   top: 45%;
 }
@@ -392,6 +417,7 @@ body{
 
 }
 @media(max-width:576px) {
+  /* 45% */
 .carousel-caption h1 {
   font-size: 250%;
   }
