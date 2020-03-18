@@ -161,7 +161,7 @@ p{
   text-shadow: 1px 1px 15px  #000000;
 }
 
-/* Page 1 Quick contact us */
+/* Page 2 Quick contact us */
 #contact  {
   text-align: center;
   padding-top: 15%;
@@ -189,6 +189,15 @@ p{
   color: #18478E;
 }
 
+
+/* Page 3 About us */
+#about-us {
+  background-color: #f5f2d3;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  padding-left: 2%;
+  padding-right: 2%;
+}
 
 .jumbotron {
   padding: 1rem;
@@ -454,7 +463,7 @@ body{
   height: 500px;
 }
 .fixedbg2{
-  background-image: url(img_ourpeople.jpg);
+  background-image: url(img\bgpage2.png);
   background-size: cover;
   background-attachment: fixed;
   height: 500px;
