@@ -202,6 +202,7 @@ p{
 .jumbotron {
   padding: 1rem;
   border-radius: 0;
+  margin-bottom: 0;
 }
 
 /* SCROLL DOWN */
@@ -456,17 +457,17 @@ body{
   font-size: 24px;
   padding: 25px;
 }
-.fixedbg{
-  background-image: url(bgpage2.png);
+.fixedbg {
+  background-image: url(fixedbgcoffee.jpg);
   background-size: cover;
   background-attachment: fixed;
-  height: 500px;
+  height: 600px;
 }
-.fixedbg2{
-  background-image: url(img\bgpage2.png);
+.fixedbg2 {
+  background-image: url(fixedbgteam.jpg);
   background-size: cover;
   background-attachment: fixed;
-  height: 500px;
+  height: 600px;
 }
 
 }
