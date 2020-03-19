@@ -249,15 +249,29 @@ p{
   }
 }
 
-/* Page 3 : Our Services */
+/* Page 5 : Our Services */
 body{
   margin: 0; 
   padding: 0;
   /* background-image: url(bgpage2.png);
   background-size: cover; */
 }
+#services {
+  background-color: #d1d5de;
+  padding-top: 5%;
+  padding-bottom: 2%;
+  padding-left: 2%;
+  padding-right: 2%;
+  }
+
+#services h2 {
+  text-align: center;
+  padding-bottom: 3%;
+  /* color: #F9B03E; */
+}
+
 .imagebox {
-  width: 400px;
+  width: 285px;
   height: 285px;
   box-sizing: border-box;
   padding: 0 10px;
@@ -334,7 +348,13 @@ body{
 }
 
 
-
+#contactus {
+  background-color: #f5f2d3;
+  padding-top: 5%;
+  padding-bottom: 2%;
+  padding-left: 2%;
+  padding-right: 2%;
+}
 
 
 
@@ -441,36 +461,52 @@ body{
 .nav-link{
   font-size: 0.8em !important;
   }
+.fixedbg1, .fixedbg2 {
+  height: 300px !important;
+  }
 }
 .social a {
   font-size: 1.4em;
   padding: 0.3rem;
 }
-}
+
 
 /* FIXED BACKGROUND IMAGE */
-.100%width{
-  padding: 0;
-  margin: 0;
-  width: 100%;
-  /* background: #99e5e9; */
-  font-size: 24px;
-  padding: 25px;
-}
-.fixedbg {
+/* .100%width{ */
+  /* padding: 0;
+  margin: 0; */
+  /* width: 100%; */
+  /* font-size: 24px;
+  padding: 25px; */
+/* } */
+.fixedbg1 {
   background-image: url(fixedbgcoffee.jpg);
   background-size: cover;
   background-attachment: fixed;
-  height: 600px;
+  height: 500px;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-position: center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 .fixedbg2 {
   background-image: url(fixedbgteam.jpg);
   background-size: cover;
   background-attachment: fixed;
-  height: 600px;
+  height: 500px;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-position: center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
-}
+
 
 /* BOOTSTRAP PADDING FIX */
 [class="col-"] {
