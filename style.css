@@ -19,8 +19,15 @@ p{
 }
 
 /* Header Start*/
+#home .navbar-brand img{
+  width: 60%;
+  height: 60%;
+  padding-top: 2%;
+  padding-left: 2%;
+}
+
 .navbar {
-  font-size: 1.3em !important;
+  font-size: 1.1em !important;
   font-weight: bold;
   padding: 0rem;
   letter-spacing: .1rem;
@@ -34,7 +41,7 @@ p{
 }
 
 .bg-dark{
-  background: transparent !important;
+  background: transparent;
 }
 .bg-dark.scrolled{
   background: #e9d699 !important;
@@ -153,11 +160,12 @@ p{
 .carousel-caption {
   position: absolute;
   top: 50%;
+  left: 60%;
   transform: translateY(-50%);
 }
 .carousel-caption h1 {
-  font-size: 300%;
-  text-transform: uppercase;
+  font-size: 200%;
+  /* text-transform: uppercase; */
   text-shadow: 1px 1px 15px  #000000;
 }
 
@@ -208,16 +216,16 @@ p{
 /* SCROLL DOWN */
 .box {
   position: absolute;
-  top: 50%;
-  left: 20%;
+  top: 85%;
+  left: 50%;
   transform: translate(-50%, -50%);
 }
 .box span {
   display: block;
-  width: 20px;
-  height: 20px;
-  border-bottom: 5px solid white;
-  border-right: 5px soliD white;
+  width: 30px;
+  height: 30px;
+  border-bottom: 5px solid whitesmoke;
+  border-right: 5px soliD whitesmoke;
   transform: rotate(45deg);
   margin: 10px;
   animation: animate 2s infinite;
