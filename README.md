@@ -47,7 +47,7 @@ Just like our fixed-top navigation bar, users can click on it and get what users
 Another example is our contact functions. Users can choose their most comfortable way by simply click on "call us", "email us", "whatsapp us" to get in touch with us immediately. Rather than filing up the particulars, submit and wait for our reply.  
 <br>
 <br>
-### 4) SKELOTON
+### 4) SKELETON
 
 #### 4a) Interface design 
 
