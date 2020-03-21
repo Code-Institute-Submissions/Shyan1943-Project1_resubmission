@@ -10,7 +10,6 @@ Weblink --> https://shyan1943.github.io/Project1/ or you may click on the above 
 Happy reading!
 
 --------
-<br>
 ### 1) STRATERY 
 
 1a) Business Objective : Enchance branding 
@@ -56,7 +55,7 @@ This is a responsive website, which users can view, get the same information & r
 
 #### 4b) Navigation design 
 
-<img src="Contact (Nav sample).png" width="441" height="266"/>
+<img src="Contact (Nav sample).png" width="441" height="206"/>
 
 I use the concept "simplify option", so it's very clear when to click on. A "fixed-top" navigation bar is designed for user's convenience from one page to another easily. I also implement the hover function, so users know its clickable when mouse over. By clicking the "call us", "email us" or "whatsapp us" button, it can straight a way bring the user to the call function without typing our number, create a new email without typing our email address and even go direct to the whatsapp chatting page without typing & saving our contact before reach us. 
  
