@@ -5,6 +5,11 @@
 
 Weblink --> https://shyan1943.github.io/Project1/ or you may click on the above logo to direct you to my website 
 <br>
+<br> 
+--------
+
+Happy reading!
+<br>
 <br>
 <br>
 ### 1) STRATERY 
@@ -60,11 +65,18 @@ It means that the presentation of information in a way that facilitates understa
 
 ### SURFACE
 
-
-						
-
+One of my visual design is to standardize the font to one only "Poppins, serif". Also, trying to keep the color skin in blue & gold to match with the logo color. lastly, are the photo choossing, it must be able to transmit business goal message, easy understand and matching our theme color. 
 
 
 --------
 
-Happy reading!
+Thanks for your times on reading. 
+
+Thanks
+Shyan
+TEL: +65 9248 5656 
+						
+
+
+
+
