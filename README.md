@@ -44,9 +44,9 @@ Our website behave more like people. A system has with its users all the time. M
 Just like our fixed-top navigation bar, users can click on it and get what users want immediately, instead of by scrolling-up to the top or still have to click a scroll up button. 
 
 Another example is our contact functions. Users can choose their most comfortable way by simply click on "call us", "email us", "whatsapp us" to get in touch with us immediately. Rather than filing up the particulars, submit and wait for our reply.  
-
-
-
+<br>
+<br>
+<br>
 ### 4) SKELOTON
 
 #### 4a) Interface design 
@@ -55,8 +55,10 @@ This is a responsive website, which users can view, get the same information & r
 
 #### 4b) Navigation design 
 
+I use the concept "simplify option", so it's very clear when to click on. A "fixed-top" navigation bar is designed for user's convenience from one page to another easily. I also implement the hover function, so users know its clickable when mouse over. By clicking the "call us", "email us" or "whatsapp us" button, it can straight a way bring the user to the call function without typing our number, create a new email without typing our email address and even go direct to the whatsapp chatting page without typing & saving our contact before reach us. 
+ 
 
-
+amination transition 
 
 
 
