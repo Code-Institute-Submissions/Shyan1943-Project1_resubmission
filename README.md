@@ -23,9 +23,8 @@ Weblink --> https://shyan1943.github.io/Project1/ or you may click on the above 
 
 2a) as a site visitor "DOMINANT", I want gets straight to the point what are the services provided, so that I can contact with the right vendor. // 2a.Epic1) I want look for a skillful and Dangerous Goods certified freight forwarder, so that my consignment can reach the buyer's premises without giving me any problem. // 2a.Epic2) I want to know the vendor's accessibility, so that if any happen to my consignment i can reach them anytime. 
 	
-2b) as a site visitor "INFLUENTIAL", I want to coorperate with the people who are focusing on the new and future, so that I can enjoy the shipping process every moment.  // 2b.Epic1) I want see something that is new, outstanding and attractive, so that it can brought to my attention //  
+2b) as a site visitor "INFLUENTIAL", I want see something that is new, outstanding and attractive, so that it can brought to my attention // 2b.Epic1) I want to coorperate with the people who are focusing on the new and future, so that I can enjoy the shipping process every moment. // 2b.Epic2) I want to deal with someone who is openness and direct, so that do not overloading me with details. 
 
-Focus on the positives, avoid overloading them with details, and don't interrupt them.
 
 
 `STRUCTURE`
