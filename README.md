@@ -33,7 +33,18 @@ Weblink --> https://shyan1943.github.io/Project1/ or you may click on the above 
 <br>
 `3) STRUCTURE`
 
+3a) Information Architecture
+
 <img src="IA Sitemap.png" width="441" height="266"/>
+
+3b) Interaction Design
+
+Our website behave more like people. A system has with its users all the time. Make users feel like its a natural conversation with real person. When clicking something, they get back something. 
+
+Just like our fixed-top navigation bar, users can click on it and get what users want immediately, instead of by scrolling-up to the top or still have to click a scroll up button. 
+
+Another example is our contact functions. Users can choose their most comfortable way by simply click on "call us", "email us", "whatsapp us" to get in touch with us immediately. Rather than filing up the particulars, submit and wait for our reply.  
+
 
 
 `SKELOTON`
