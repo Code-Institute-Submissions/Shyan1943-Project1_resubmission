@@ -21,9 +21,7 @@ a.4) Business owner will focus by applying the DISC personaility concept in UI/U
 `B) SCOPE`
 `User story with Epic`
 
-b.1) as a site visitor "DOMINANT", I want gets straight to the point what are the services provided, so that I can contact with the right vendor. 
- 	b.1.1) I want look for a skillful and Dangerous Goods certified freight forwarder, so that my consignment can reach the buyer's premises without giving me any problem. 
-	b.1.2) I want to know the vendor's accessibility, so that if any happen to my consignment i can reach them anytime. 
+b.1) as a site visitor "DOMINANT", I want gets straight to the point what are the services provided, so that I can contact with the right vendor. // b.1.1) I want look for a skillful and Dangerous Goods certified freight forwarder, so that my consignment can reach the buyer's premises without giving me any problem. //	b.1.2) I want to know the vendor's accessibility, so that if any happen to my consignment i can reach them anytime. 
 	
 b.2) as a site visitor "
 
