@@ -7,7 +7,7 @@ Weblink --> https://shyan1943.github.io/Project1/ or you may click on the above 
 <br>
 <br>
 <br>
-`1) STRATERY` 
+### 1) STRATERY 
 
 1a) Business Objective : Enchance branding 
 
@@ -19,7 +19,7 @@ Weblink --> https://shyan1943.github.io/Project1/ or you may click on the above 
 <br>
 <br>
 <br>
-`2) SCOPE - User story with Epic`
+### 2) SCOPE - User story with Epic
 
 2a) As a site visitor "DOMINANT", I want gets straight to the point what are the services provided, so that I can contact with the right vendor. // 2a.Epic1) I want to look for a skillful and Dangerous Goods certified freight forwarder, so that my consignment can reach the buyer's premises without giving me any problem. // 2a.Epic2) I'm busy, I want straight away click and phone out to reach my vendor (accessibility), so that I do not need to fill up my particulars or remember & press again vendor contact number before reaching them, and straight away I connect with a real person. 
 	
@@ -31,13 +31,13 @@ Weblink --> https://shyan1943.github.io/Project1/ or you may click on the above 
 <br>
 <br>
 <br>
-`3) STRUCTURE`
+### 3) STRUCTURE
 
-3a) Information Architecture
+#### 3a) Information Architecture
 
 <img src="IA Sitemap.png" width="441" height="266"/>
 
-3b) Interaction Design
+#### 3b) Interaction Design
 
 Our website behave more like people. A system has with its users all the time. Make users feel like its a natural conversation with real person. When clicking something, they get back something. 
 
@@ -47,9 +47,20 @@ Another example is our contact functions. Users can choose their most comfortabl
 
 
 
-`SKELOTON`
+### 4) SKELOTON
 
-`SURFACE`
+#### 4a) Interface design 
+
+This is a responsive website, which users can view, get the same information & reach us by using difference IT products. Also, In a world where users are constantly bombarded with too much content, people love simplicity. With this, we design it as an "One-page websites" offer a fast and clear reading experience. 
+
+#### 4b) Navigation design 
+
+
+
+
+
+
+### SURFACE
 
 
 						
