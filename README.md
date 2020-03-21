@@ -9,9 +9,13 @@ Weblink --> https://shyan1943.github.io/Project1/ or you may click on the above 
 
 a.1) Business Objective : Enchance branding 
 
-   Target audience : Shipper & Freight Forwarder and Younger generation
+a.2) Target audience : Shipper & Freight Forwarder and Younger generation
      
-a.2) Customer Goals 	: Use the 
+a.3) Customer Goals : Use the most efficient and confirmation way to know more about their vendor. In terms of vendor's services, professionalism, accessibility, reliability, trustworthy and etc... that can help to solve their daily shipping problem. 
+
+a.4) With consideration to the above business' and customers' goals, business strategy need to focus on attracting site visitor, helping and fulfill customers' needs.  So that, to achieve our business Objective in win win situation. 
+
+Business owner will focus using the DISC personaility concept to 
 
 
 `SCOPE`
