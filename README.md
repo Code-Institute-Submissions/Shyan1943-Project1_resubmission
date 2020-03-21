@@ -33,6 +33,9 @@ Weblink --> https://shyan1943.github.io/Project1/ or you may click on the above 
 <br>
 `3) STRUCTURE`
 
+<img src="IA Sitemap.png" width="441" height="266"/>
+
+
 `SKELOTON`
 
 `SURFACE`
