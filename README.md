@@ -56,13 +56,15 @@ This is a responsive website, which users can view, get the same information & r
 
 #### 4b) Navigation design 
 
+<img src="Contact (Nav sample).png" width="441" height="266"/>
+
 I use the concept "simplify option", so it's very clear when to click on. A "fixed-top" navigation bar is designed for user's convenience from one page to another easily. I also implement the hover function, so users know its clickable when mouse over. By clicking the "call us", "email us" or "whatsapp us" button, it can straight a way bring the user to the call function without typing our number, create a new email without typing our email address and even go direct to the whatsapp chatting page without typing & saving our contact before reach us. 
  
 #### 4c) Information Design
 It means that the presentation of information in a way that facilitates understanding. I make use of the carousel slideshow at the landing page by presenting the related pictures, it straight away transmit a message to the site visitor that we are providing shipping & logistics services. In our services page, instead of writing a full paragraph to telling people what we are providing, we use the picture to represent a thousand words. Just mouse over at the services picture without clicking, an animation transition performs to give a short and shape introduction of the services. 
-
-
-### SURFACE
+<br>
+<br>
+### 5) SURFACE
 
 <img src="Color.png" width="441" height="266"/>
 
