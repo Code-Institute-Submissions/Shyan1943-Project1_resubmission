@@ -4,22 +4,21 @@
 
 Weblink --> https://shyan1943.github.io/Project1/ or you may click on the above logo to direct you  
 
-`hello`
+`STRATERY`
 
-`python3 -m http.server`
+`SCOPE`
+
+`STRUCTURE`
+
+`SKELOTON`
+
+`SURFACE`
 
 
-## STRATEGY								
-								
-Business Objective								
-Enchance branding 								
-								
-								
-Biz Owner (B2B)								
-	Conv to user (schedule, get free quote, book on line, live tracking, feedback)							
+						
 
 
 
 --------
 
-Happy coding!
+Happy reading!
