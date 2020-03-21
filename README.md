@@ -21,7 +21,7 @@ Weblink --> https://shyan1943.github.io/Project1/ or you may click on the above 
 <br>
 `2) SCOPE - User story with Epic`
 
-2a) As a site visitor "DOMINANT", I want gets straight to the point what are the services provided, so that I can contact with the right vendor. // 2a.Epic1) I want to look for a skillful and Dangerous Goods certified freight forwarder, so that my consignment can reach the buyer's premises without giving me any problem. // 2a.Epic2) I'm busy, I want straight away click and phone out to reach my vendor (accessibility), so that i do not need to fill up my particulars or remember & press again vendor contact number before reaching them. 
+2a) As a site visitor "DOMINANT", I want gets straight to the point what are the services provided, so that I can contact with the right vendor. // 2a.Epic1) I want to look for a skillful and Dangerous Goods certified freight forwarder, so that my consignment can reach the buyer's premises without giving me any problem. // 2a.Epic2) I'm busy, I want straight away click and phone out to reach my vendor (accessibility), so that I do not need to fill up my particulars or remember & press again vendor contact number before reaching them, and straight away I connect with a real person. 
 	
 2b) As a site visitor "INFLUENTIAL", I want see something that is new, outstanding and attractive, so that it can brought to my attention // 2b.Epic1) I want to coorperate with the people who are focusing on the new and future, so that I can enjoy the shipping process every moment. // 2b.Epic2) I want to deal with someone who is openness and direct, so that do not overloading me with details. 
 
