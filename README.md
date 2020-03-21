@@ -5,9 +5,12 @@
 Weblink --> https://shyan1943.github.io/Project1/ or you may click on the above logo to direct you to my website 
 
 
-`A) STRATERY`
+`A) STRATERY` 
+
 a.1) Business Objective : Enchance branding 	
+
      Target audience : Shipper & Freight Forwarder and Younger generation
+     
 a.2) Customer Goals 	: Use the 
 
 
