@@ -10,7 +10,7 @@ html, body {
   transition: all 3s;
   -webkit-transition: all 3s;
 }
-h2, h4{
+h2, h4, h5{
   color: #18478E;
 }
 
@@ -370,7 +370,7 @@ body{
 /* Page 5 Contact us */
 #contactus {
   background-color: #d1d5de;
-  padding-top: 5%;
+  padding-top: 2%;
   padding-bottom: 2%;
   padding-left: 2%;
   padding-right: 2%;
@@ -379,15 +379,20 @@ body{
 
 
 /* MEDIA QUERIES */
+@media(max-width:1580px) {
+  /* 75% */
+.carousel-caption h1 {
+  font-size: 250%;
+}
+}
 @media(max-width:992px) {
   /* 75% */
 .navbar-brand {
   width: 75%;
   height: 75%;
 }
-.social a {
-  font-size: 1.8em;
-  padding: 0.5rem;
+.carousel-caption h1 {
+  font-size: 220%;
 }
 }
 
@@ -406,7 +411,7 @@ body{
   top: 45%;
 }
 .carousel-caption h1 {
-  font-size: 350%;
+  font-size: 160%;
 }
 .carousel-caption .btn {
   font-size: 95%;
@@ -422,7 +427,7 @@ body{
 @media(max-width:576px) {
   /* 45% */
 .carousel-caption h1 {
-  font-size: 250%;
+  font-size: 100%;
   }
 .carousel-caption .btn {
   font-size: 90%;
