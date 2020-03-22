@@ -1,35 +1,86 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+<a href="https://shyan1943.github.io/Project1/"><img src="img/img_logo.png" width="350" height="70"/>
+<br>
+<br>
+## Welcome to my first B2B website!!! 
 
-Welcome Shyan1943,
+Weblink --> https://shyan1943.github.io/Project1/ or you may click on the above logo to direct you to my website 
+<br>
+<br> 
+<br>
+Happy reading!
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project.
+--------
+### 1) STRATERY 
 
-## Gitpod Reminders
+1a) Business Objective : Enchance branding 
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+1b) Target audience : Shipper & Freight Forwarder and next generation
+     
+1c) Customer Goals : Use the most efficient and comfortable way to know more about their vendor. In terms of vendor's services, professionalism, accessibility, reliability, trustworthy and etc... that can help to solve their daily shipping problem. 
 
-`python3 -m http.server`
+1d) With consideration on point 1a~1c, Business owner will focus on how to attract and communicate with the <a href="https://www.chartcourse.com/communicating-four-disc-styles/">Four DISC personaility styles </a> concept in UI/UX, so that different group of site visitors can receive the information they wanted in the fastest and most effective way. To achieve a win-win effect. 
+<br>
+<br>
+### 2) SCOPE - User story with Epic
 
-A blue button should appear to click: *Expose*,
+2a) As a site visitor "DOMINANT", I want gets straight to the point what are the services provided, so that I can contact with the right vendor. // 2a.Epic1) I want to look for a professional freight forwarder, so that my consignment can reach the buyer's premises without giving me any problem. // 2a.Epic2) I'm busy, I want straight away click and phone out to reach my vendor (accessibility), so that I do not need to fill up my particulars or remember & press again vendor contact number before reaching them, and straight away I connect with a real person. 
+	
+2b) As a site visitor "INFLUENTIAL", I want see something that is new, outstanding and attractive, so that it can cheer up my days. // 2b.Epic1) I want to coorperate with the people who are focusing on the positive and future, so that I can enjoy the shipping process every moment. // 2b.Epic2) I want to deal with someone who is openness and direct, so that do not overloading me with details. 
 
-Another blue button should appear to click: *Open Browser*.
+2c) As a site visitor "CONSCIENTIOUS", I want to know more about your company background, so that I feel more protection and can have a peace of mind while using your services. // 2c.Epic1) I want my vendors are well-trained and professional, so that my shipment are well-organized and done perfectly. // 2c.Epic2) I want to ensure my vendors are stable and insured, so that we are under the protection if anything happen.   
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+2d) As a "younger next generation" site visitor, I want get any information I wanted through internet without making a phone call, so that I get the information anytime anywhere. // 2d.Epic1) I want something out of traditional, so that i feel they are new and keep improving. // 2d.Epic2) i want to communicate with my vendor through apps chat or email instead of making phone call, so that i feel more convenience and they are more advanced.   
+<br>
+<br>
+### 3) STRUCTURE
 
-A blue button should appear to click: *Expose*,
+#### 3a) Information Architecture
 
-Another blue button should appear to click: *Open Browser*.
+<img src="IA Sitemap.png" width="441" height="266"/>
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the backend lessons.
+#### 3b) Interaction Design
 
-## Updates Since The Instructional Video
+Our website behave more like people. A system has with its users all the time. Make users feel like its a natural conversation with real person. When clicking something, they get back something. 
 
-We continually tweak and adjust this template to help give you the best experience. Here are the updates since the original video was made:
+Just like our fixed-top navigation bar, users can click on it and get what users want immediately, instead of by scrolling-up to the top or still have to click a scroll up button. 
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+Another example is our contact functions. Users can choose their most comfortable way by simply click on "call us", "email us", "whatsapp us" to get in touch with us immediately. Rather than filing up the particulars, submit and wait for our reply.  
+<br>
+<br>
+### 4) SKELETON
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+#### 4a) Interface design 
+
+This is a responsive website, which users can view, get the same information & reach us by using difference IT products. Also, In a world where users are constantly bombarded with too much content, people love simplicity. With this, we design it as an "One-page websites" offer a fast and clear reading experience. 
+
+#### 4b) Navigation design 
+
+<img src="Contact (Nav sample).png" width="441" height="196"/>
+
+I use the concept "simplify option", so it's very clear where to click on. A "fixed-top" navigation bar is designed for user's convenience from one page to another easily. I also implement the hover function, so users know its clickable when mouse over. By clicking the "call us", "email us" or "whatsapp us" button, it can straight a way bring the user to the call function without typing our number, create a new email without typing our email address and even go direct to the whatsapp chatting page without typing & saving our contact before reaching us. 
+ 
+#### 4c) Information Design
+It means that the presentation of information in a way that facilitates understanding. I make use of the carousel slideshow at the landing page by presenting the related pictures, it straight away transmit a message to the site visitor that we are providing shipping & logistics services. In our services page, instead of writing a full paragraph to telling people what we are providing, we use the picture to represent a thousand words. Just mouse over at the services picture without clicking, an animation transition performs to give a short and shape introduction of the services. 
+<br>
+<br>
+### 5) SURFACE
+
+<img src="Color.png" width="441" height="266"/>
+
+One of my visual design is to standardize the font to one only "Poppins, serif". Also, trying to keep the color skin in blue & gold to match with the logo color. lastly are the photo choosing, it must be able to transmit business goal message, easy understand and matching our theme color. 
+
 
 --------
 
-Happy coding!
+Thank you so much for your time and attention. 
+
+Thanks
+
+Shyan
+
+TEL: +65 9248 5656 
+						
+
+
+
+
