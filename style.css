@@ -159,105 +159,15 @@ p{
 }
 .carousel-caption {
   position: absolute;
-  top: 50%;
-  left: 60%;
   transform: translateY(-50%);
 }
 .carousel-caption h1 {
-  font-size: 200%;
+  font-size: 400%;
   /* text-transform: uppercase; */
-  text-shadow: 1px 1px 15px  #000000;
+  text-shadow: 1px 1px 30px  #000000;
 }
 
-/* Page 2 Quick contact us */
-#contact  {
-  text-align: center;
-  padding-top: 15%;
-  padding-bottom: 15%;
-}
-#contact .fa {
-  font-size: 4rem;
-}
-#contact .fa-phone {
-  color: #18478E;
-}
-#contact .fa-phone:hover {
-  color: #F9B03E;
-}
-#contact p {
-  height:110px;
-}
-.btn-primary {
-  background-color: #18478E;
-  border: 1px solid  #18478E;
-}
-.btn-primary:hover {
-  background-color: #F9B03E;
-  border: 1px solid #F9B03E;
-  color: #18478E;
-}
-
-
-/* Page 3 About us */
-#about-us {
-  background-color: #f5f2d3;
-  padding-top: 2%;
-  padding-bottom: 2%;
-  padding-left: 2%;
-  padding-right: 2%;
-}
-
-.jumbotron {
-  padding: 1rem;
-  border-radius: 0;
-  margin-bottom: 0;
-}
-
-/* SCROLL DOWN */
-.box {
-  position: absolute;
-  top: 85%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
-.box span {
-  display: block;
-  width: 30px;
-  height: 30px;
-  border-bottom: 5px solid whitesmoke;
-  border-right: 5px soliD whitesmoke;
-  transform: rotate(45deg);
-  margin: 10px;
-  animation: animate 2s infinite;
-}
-.box span:nth-child(2)
-{
-  animation-delay: -.0.2s;
-}
-.box span:nth-child(3)
-{
-  animation-delay: -.0.4s;
-
-}
-@keyframes animate
-{
-  0%
-  {
-    apacity:0;
-  transform: rotate(45deg) translate(-20px, -20px);
-  }
-  50%
-  {
-    apacity:1;
-  }
-  100%
-  {
-    apacity:0;
-  transform: rotate(45deg) translate(20px, 20px);
-  }
-}
-
-/* Page 5 : Our Services */
+/* Page 2 : Our Services */
 body{
   margin: 0; 
   padding: 0;
@@ -355,7 +265,109 @@ body{
   text-decoration: none;
 }
 
+/* Page 3 Quick contact us */
+#contact  {
+  text-align: center;
+  padding-top: 15%;
+  padding-bottom: 15%;
+}
+#contact .fa {
+  font-size: 4rem;
+}
+#contact .fa-phone {
+  color: #18478E;
+}
+#contact .fa-phone:hover {
+  color: #F9B03E;
+}
 
+.fa-whatsapp {
+  color: #25d366;
+}
+.fa-envelope {
+  background-color:transparent;
+  color:#F9B03E;
+}
+
+.fa-whatsapp:hover,
+.fa-envelope:hover {
+  color: #18478E;
+}
+#contact p {
+  height:110px;
+}
+.btn-primary {
+  background-color: #18478E;
+  border: 1px solid  #18478E;
+}
+.btn-primary:hover {
+  background-color: #F9B03E;
+  border: 1px solid #F9B03E;
+  color: #18478E;
+}
+
+
+/* SCROLL DOWN */
+.box {
+  position: absolute;
+  top: 85%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.box span {
+  display: block;
+  width: 30px;
+  height: 30px;
+  border-bottom: 5px solid whitesmoke;
+  border-right: 5px soliD whitesmoke;
+  transform: rotate(45deg);
+  margin: 10px;
+  animation: animate 2s infinite;
+}
+.box span:nth-child(2)
+{
+  animation-delay: -.0.2s;
+}
+.box span:nth-child(3)
+{
+  animation-delay: -.0.4s;
+
+}
+@keyframes animate
+{
+  0%
+  {
+    apacity:0;
+  transform: rotate(45deg) translate(-20px, -20px);
+  }
+  50%
+  {
+    apacity:1;
+  }
+  100%
+  {
+    apacity:0;
+  transform: rotate(45deg) translate(20px, 20px);
+  }
+}
+
+/* Page 4 About us */
+#about-us {
+  background-color: #f5f2d3;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  padding-left: 2%;
+  padding-right: 2%;
+}
+
+.jumbotron {
+  padding: 1rem;
+  border-radius: 0;
+  margin-bottom: 0;
+}
+
+
+/* Page 4 Contact us */
 #contactus {
   background-color: #f5f2d3;
   padding-top: 5%;
@@ -365,53 +377,6 @@ body{
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-.social a {
-  font-size: 2.0em;
-  padding: 0.7rem;
-}
-.fa-facebook {
-  color: #3b5998;
-}
-.fa-whatsapp {
-  color: #25d366;
-}
-.fa-envelope {
-  background-color:transparent;
-  color:#F9B03E;
-}
-
-
-
-
-
-.fa-facebook:hover,
-.fa-whatsapp:hover,
-.fa-envelope:hover {
-  color: #18478E;
-}
 
 /* MEDIA QUERIES */
 @media(max-width:992px) {
