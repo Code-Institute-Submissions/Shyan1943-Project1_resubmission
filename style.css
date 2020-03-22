@@ -367,9 +367,9 @@ body{
 }
 
 
-/* Page 4 Contact us */
+/* Page 5 Contact us */
 #contactus {
-  background-color: #f5f2d3;
+  background-color: #d1d5de;
   padding-top: 5%;
   padding-bottom: 2%;
   padding-left: 2%;
@@ -453,7 +453,7 @@ body{
   padding: 25px; */
 /* } */
 .fixedbg1 {
-  background-image: url(fixedbgcoffee.jpg);
+  background-image: url(fixedbg1.jpg);
   background-size: cover;
   background-attachment: fixed;
   height: 500px;
