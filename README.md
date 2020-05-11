@@ -69,6 +69,43 @@ It means that the presentation of information in a way that facilitates understa
 
 One of my visual design is to standardize the font to one only "Poppins, serif". Also, trying to keep the color skin in blue & gold to match with the logo color. lastly are the photo choosing, it must be able to transmit business goal message, easy understand and matching our theme color. 
 
+### 6) DEPLOYMENT 
+
+#### 6a) Preparation
+
+Before the site goes 'live':
+
+#### Content
+•	Be clear what business owner wanted to focus on.
+
+•	Fixed font (https://fonts.google.com).
+
+•	Fixed color code (https://www.sessions.edu/color-calculator/).
+
+•	Choose the photos (https://unsplash.com/) which are related to the project theme and color matching. 
+
+•	Set up Github repository and Visual Studio Code.
+
+•	Ensured Visual Studio Code is upstream to Github before start coding. 
+
+•	Ensured all the last changes are saved and committed.
+
+•	Did a Git Push.
+
+
+#### 6b) Production
+
+Putting the site into production.
+
+#### Git Pages
+
+•	At the Git Repository, I navigate to the 'Setting'
+
+•	I scrolled down to the Git Pages section.
+
+•	Select 'master branch'
+
+•	View and test the site at https://shyan1943.github.io/Project1/
 
 --------
 
