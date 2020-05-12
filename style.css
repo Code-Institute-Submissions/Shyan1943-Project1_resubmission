@@ -45,33 +45,6 @@ p{
 .bg-dark.scrolled{
   background: #e9d699 !important;
 }
-.circle {
-  width: 10em;
-  height: 10em;
-  border: 1em solid;
-  border-radius: 50%;
-  position: absolute;
-}
-.ring1 {
-  border-color: #F9B03E;
-}
-
-.ring2 {
-  border-color: #18478E;
-  left:4em;
-}
-
-  border-color: green;
-  border-style: solid;
-  border-width: 5em 0 5em 10em;
-  border-radius: 50%;
-
-}
-
-.patch1 {
-  border-color: #F9B03E;
-} */
-
 
 
 
