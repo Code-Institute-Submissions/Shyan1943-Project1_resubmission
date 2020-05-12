@@ -68,10 +68,24 @@ It means that the presentation of information in a way that facilitates understa
 <img src="img/Color.png" width="441" height="266"/>
 
 One of my visual design is to standardize the font to one only "Poppins, serif". Also, trying to keep the color skin in blue & gold to match with the logo color. lastly are the photo choosing, it must be able to transmit business goal message, easy understand and matching our theme color. 
+<br>
+<br>
+### 6) TESTING
 
-### 6) DEPLOYMENT 
+#### 6a) Validating Markup : 
+All pages validated using W3 Markup Validation Service (http://validator.w3.org/). Document checking completed. No errors or warnings to show.
 
-#### 6a) Preparation
+#### 6b) Hyperlink Check : 
+All pages checked using W3C Link Checker (https://validator.w3.org/checklink). The result show there are errors with linking to call, fax, email or whatsapp. However, if I tested on the laptop or mobile, which have the call, email or whatsapp function it will run well. 
+
+#### 6c) Navigation Check :
+Clicked on each of the navigation on every page and ensure they linked to the right place. 
+Clicked on each of the carousel photo navigation and the previous and next page (whenever is active) on every page and ensure they linked to the right place.
+<br>
+<br>
+### 7) DEPLOYMENT 
+
+#### 7a) Preparation
 
 Before the site goes 'live':
 
@@ -93,7 +107,7 @@ Before the site goes 'live':
 •	Did a Git Push.
 
 
-#### 6b) Production
+#### 7b) Production
 
 Putting the site into production.
 
