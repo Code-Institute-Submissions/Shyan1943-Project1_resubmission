@@ -188,18 +188,18 @@ body{
 }
 
 /* Page 3 Quick contact us */
-#contact  {
+.contact  {
   text-align: center;
   padding-top: 15%;
   padding-bottom: 15%;
 }
-#contact .fa {
+.contact .fa {
   font-size: 4rem;
 }
-#contact .fa-phone {
+.contact .fa-phone {
   color: #18478E;
 }
-#contact .fa-phone:hover {
+.contact .fa-phone:hover {
   color: #F9B03E;
 }
 
@@ -215,7 +215,7 @@ body{
 .fa-envelope:hover {
   color: #18478E;
 }
-#contact p {
+.contact p {
   height:110px;
 }
 .btn-primary {
