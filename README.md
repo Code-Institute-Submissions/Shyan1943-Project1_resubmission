@@ -65,7 +65,7 @@ It means that the presentation of information in a way that facilitates understa
 <br>
 ### 5) SURFACE
 
-<img src="Color.png" width="441" height="266"/>
+<img src="img/Color.png" width="441" height="266"/>
 
 One of my visual design is to standardize the font to one only "Poppins, serif". Also, trying to keep the color skin in blue & gold to match with the logo color. lastly are the photo choosing, it must be able to transmit business goal message, easy understand and matching our theme color. 
 
